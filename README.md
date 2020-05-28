@@ -1,2 +1,2 @@
 # Face Mask Detector
-face mask detector for helping!
+Face mask detector for helping!
